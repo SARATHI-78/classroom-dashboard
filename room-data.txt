@@ -1,0 +1,3 @@
+Room1 28C
+Room2 25C
+Room3 30C
